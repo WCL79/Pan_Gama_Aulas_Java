@@ -34,51 +34,18 @@ Jenifer Plácido Professora Desenvolvimento Web Java com conhecimento em Full St
 
 - [Imagem da Jenifer](https://github.com/WCL79/imagnes_diversas/blob/master/mentoraJeniffer.JPG)
 
-### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+## ⚙️ Exercícios em aula
 
-```
-Dar exemplos
-```
-
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
+A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual e desafios, logo essa secção sofrerá alterações continuas.
 
 ### 🔩 Analise os testes de ponta a ponta
 
 Explique que eles verificam esses testes e porquê.
 
-```
-Dar exemplos
-```
-
 ### ⌨️ E testes de estilo de codificação
 
 Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
 
 ## 📦 Desenvolvimento
 
