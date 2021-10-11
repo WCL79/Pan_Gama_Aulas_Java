@@ -3,8 +3,8 @@ package aula091021;
 public class ContaBancariaBancoPan {
 	
 	private String nome;
-    private int conta, saques;
-    private double saldo;
+    private int conta ;
+    private double saldo, saques;
     
     public ContaBancariaBancoPan(String nome, int conta, double saldoInicial){
         this.nome=nome;
