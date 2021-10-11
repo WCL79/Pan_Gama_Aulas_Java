@@ -42,3 +42,9 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 - [Data 09/10/21: exercício sobre condicional Maior número e menor número, valiação de senha com tipo primitivo inteiro](https://github.com/WCL79/Gama_Aulas_Java/tree/master/src/aulaInteiro091021)
 - [Data 09/10/21: exercício Conta Bancaria, porém esse exercício é um complemento individual, embora o mesmo não foi aplicado conceito de POO mas composição de classe e programação basica](https://github.com/WCL79/Gama_Aulas_Java/tree/master/src/aula091021)
 
+## 🖥️🖱️ Visitantes
+
+<p align="center">Você é o n° abaixo como visitante, OBRIGADO!</p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WCL79/Pan_Gama_Aulas_Java/count.svg" /></p>
+
+
