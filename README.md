@@ -45,6 +45,6 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 ## 🖥️🖱️ Visitantes
 
 <p align="center">Você é o n° abaixo como visitante, OBRIGADO!</p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WCL79/Pan_Gama_Aulas_Java/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Pan_Gama_Aulas_Java/count.svg" /></p>
 
 
