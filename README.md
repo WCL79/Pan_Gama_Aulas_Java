@@ -40,5 +40,5 @@ Jenifer Plácido Professora Desenvolvimento Web Java com conhecimento em Full St
 A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual e desafios, logo essa secção sofrerá alterações continuas.
 
 - [Data 09/10/21: exercício sobre condicional Maior número e menor número, valiação de senha com tipo primitivo inteiro](https://github.com/WCL79/Gama_Aulas_Java/tree/master/src/aulaInteiro091021)
-- - [Data 09/10/21: exercício Conta Bancaria, porém esse exercício é um complemento individual, embora o mesmo não foi aplicado conceito de POO mas composição de classe e programação basica](https://github.com/WCL79/Gama_Aulas_Java/tree/master/src/aula091021)
+- [Data 09/10/21: exercício Conta Bancaria, porém esse exercício é um complemento individual, embora o mesmo não foi aplicado conceito de POO mas composição de classe e programação basica](https://github.com/WCL79/Gama_Aulas_Java/tree/master/src/aula091021)
 
