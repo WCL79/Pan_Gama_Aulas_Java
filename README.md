@@ -11,20 +11,25 @@ PAN ACADEMY É UM PROGRAMA DE FORMAÇÃO À ESPECIALIZAÇÃO EM <i>CLOUD</i> COM
 
 
 <p align="center">
-  <a href="#-cronograma">Cronograma</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-exercicos">Execícios em aula</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projetos">Projetos</a>
+  <a href="#-cronograma">Cronograma e  Staff</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-exercicos">Exercícios em aula</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projetos">Projeto final</a>
 </p>
 
-## 🚀 Começando :woman_teacher:
+## :hourglass: Cronograma e  Staff:woman_teacher:
 
-O programa foi elaborado tabela com cerca de 390 horas cujo conteúdo e estruturado em 10 semanas de treinamento. Para melhor entendimento a imagem simplifica:
+
+O programa foi elaborado uma tabela com cerca de 390 horas cujo conteúdo e estruturado em 10 semanas de treinamento. As aulas serão gravadas e também ao vivo, porém as aulas e
+mentorias deverão ser assistidas nos horários pré determinados. Para melhor entendimento a imagem simplifica:
 
 - [Imagem do cronograma e conteúdos 1](https://github.com/WCL79/imagnes_diversas/blob/master/cronogramaPan.JPG)
 - [Imagem do cronograma e conteúdos 2](https://github.com/WCL79/imagnes_diversas/blob/master/cronogramaPan2.JPG)
 - [Imagem do cronograma e conteúdos 3](https://github.com/WCL79/imagnes_diversas/blob/master/cronograma3.JPG)
 
-Consulte **Implantação** para saber como implantar o projeto.
+Naya é a pessoa responsavél pela organização entre as Mentoras a Gama juntamente com o Banco Pan.
+
+- [Imagem do cronograma e conteúdos 1](https://github.com/WCL79/imagnes_diversas/blob/master/cronogramaPan.JPG)
+
 
 ### 📋 Pré-requisitos
 
