@@ -28,8 +28,11 @@ mentorias deverão ser assistidas nos horários pré determinados. Para melhor e
 
 Naya é a pessoa responsavél pela organização entre as Mentoras a Gama juntamente com o Banco Pan.
 
-- [Imagem do cronograma e conteúdos 1](https://github.com/WCL79/imagnes_diversas/blob/master/cronogramaPan.JPG)
+- [Imagem da Naya](https://github.com/WCL79/imagnes_diversas/blob/master/staffNaya.png)
 
+Jenifer Plácido Professora Desenvolvimento Web Java com conhecimento em Full Stack cuja profissional no setor de TI ao Desenvolvimento.
+
+- [Imagem da Jenifer](https://github.com/WCL79/imagnes_diversas/blob/master/mentoraJeniffer.JPG)
 
 ### 📋 Pré-requisitos
 
