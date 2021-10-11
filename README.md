@@ -18,7 +18,7 @@ PAN ACADEMY É UM PROGRAMA DE FORMAÇÃO À ESPECIALIZAÇÃO EM <i>CLOUD</i> COM
 
 ## 🚀 Começando :woman_teacher:
 
-O programa foi elaborado em cerca de 390 horas cuja estruturação em 10 semanas de treinamento. Para melhor entendimento a imagem simplifica:
+O programa foi elaborado tabela com cerca de 390 horas cujo conteúdo e estruturado em 10 semanas de treinamento. Para melhor entendimento a imagem simplifica:
 
 - [Imagem do cronograma e conteúdos 1](https://github.com/WCL79/imagnes_diversas/blob/master/cronogramaPan.JPG)
 - [Imagem do cronograma e conteúdos 2](https://github.com/WCL79/imagnes_diversas/blob/master/cronogramaPan2.JPG)
