@@ -1,22 +1,28 @@
 <p align="center">
   <a href="https://bancopan.corporate.gama.academy/" target="_blank">
     <img align="center" width="300" src="https://github.com/WCL79/imagnes_diversas/blob/master/logoPan.JPG" style="max-width:100%;">
-    <p>Clique na imagem para ser redirecionado 
+    <p>Clique na imagem para ser redirecionado</p>
   </a>
 </p>
 
-<h1 align="center">
+<h3 align="center">
 PAN ACADEMY É UM PROGRAMA DE FORMAÇÃO À ESPECIALIZAÇÃO EM <i>CLOUD</i> COM JAVA
-</h1>
+</h3>
 
 
+<p align="center">
+  <a href="#-cronograma">Cronograma</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-exercicos">Execícios em aula</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projetos">Projetos</a>
+</p>
 
+## 🚀 Começando :woman_teacher:
 
-Um parágrafo da descrição do projeto vai aqui
+O programa foi elaborado em cerca de 390 horas cuja estruturação em 10 semanas de treinamento. Para melhor entendimento a imagem simplifica:
 
-## 🚀 Começando :man_teacher:
-
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+- [Imagem do cronograma e conteúdos 1](https://github.com/WCL79/imagnes_diversas/blob/master/cronogramaPan.JPG)
+- [Imagem do cronograma e conteúdos 2](https://github.com/WCL79/imagnes_diversas/blob/master/cronogramaPan2.JPG)
+- [Imagem do cronograma e conteúdos 3](https://github.com/WCL79/imagnes_diversas/blob/master/cronograma3.JPG)
 
 Consulte **Implantação** para saber como implantar o projeto.
 
