@@ -41,7 +41,7 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 09/10/21: exercício sobre condicional Maior número e menor número, valiação de senha com tipo primitivo inteiro](https://github.com/WCL79/Gama_Aulas_Java/tree/master/src/aulaInteiro091021)
 - [Data 09/10/21: exercício Conta Bancaria, porém esse exercício é um complemento individual, embora o mesmo não foi aplicado conceito de POO mas composição de classe e programação basica](https://github.com/WCL79/Gama_Aulas_Java/tree/master/src/aula091021)
-- - [Data 11/10/21: exercício sobre condicional Escreva um programa que leia o valor de 3 ângulos de um triângulo e escreva se o triângulo é Acutângulo, Retângulo ou Obtusângulo, Escreva um programa que leia as medidas dos lados de um triângulo e escreva se ele é Equilátero, Isósceles ou Escaleno e As maçãs custam R$ 0,30 cada se forem compradas menos do que uma dúzia, e R$ 0,25 se forem compradas pelo menos doze.
+- [Data 11/10/21: exercício sobre condicional Escreva um programa que leia o valor de 3 ângulos de um triângulo e escreva se o triângulo é Acutângulo, Retângulo ou Obtusângulo, Escreva um programa que leia as medidas dos lados de um triângulo e escreva se ele é Equilátero, Isósceles ou Escaleno e As maçãs custam R$ 0,30 cada se forem compradas menos do que uma dúzia, e R$ 0,25 se forem compradas pelo menos doze.
 Escreva um programa que leia o número de maçãs compradas, calcule e escreva o valor total da compra](https://github.com/WCL79/Pan_Gama_Aulas_Java/tree/master/src/aula111021)
 
 ## 🖥️🖱️ Visitantes
