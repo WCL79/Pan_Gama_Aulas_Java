@@ -13,6 +13,7 @@ PAN ACADEMY É UM PROGRAMA DE FORMAÇÃO À ESPECIALIZAÇÃO EM <i>CLOUD</i> COM
 <p align="center">
   <a href="#-cronograma">Cronograma e  Staff</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-exercicos">Exercícios em aula</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-exercicos">Exercícios complementarios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projetos">Projeto final</a>
 </p>
 
@@ -43,6 +44,11 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 - [Data 09/10/21: exercício Conta Bancaria, porém esse exercício é um complemento individual, embora o mesmo não foi aplicado conceito de POO mas composição de classe e programação basica](https://github.com/WCL79/Gama_Aulas_Java/tree/master/src/aula091021)
 - [Data 11/10/21: exercício sobre condicional Escreva um programa que leia o valor de 3 ângulos de um triângulo e escreva se o triângulo é Acutângulo, Retângulo ou Obtusângulo, Escreva um programa que leia as medidas dos lados de um triângulo e escreva se ele é Equilátero, Isósceles ou Escaleno e As maçãs custam R$ 0,30 cada se forem compradas menos do que uma dúzia, e R$ 0,25 se forem compradas pelo menos doze.
 Escreva um programa que leia o número de maçãs compradas, calcule e escreva o valor total da compra](https://github.com/WCL79/Pan_Gama_Aulas_Java/tree/master/src/aula111021)
+
+## ⚙️ Exercícios em aula
+
+Comforme orientação da Mentora Jenifer, é necessário praticar diversos exercícios para aumentar a capicidade lógica crítica; ou seja, cada resolução à solução, com o passar do tempo, o mesmo exercício poderá refaze-lo de forma diferente e mais eficiente.
+
 
 ## 🖥️🖱️ Visitantes
 

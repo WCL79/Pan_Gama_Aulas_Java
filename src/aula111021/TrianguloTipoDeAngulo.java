@@ -43,7 +43,7 @@ public class TrianguloTipoDeAngulo {
 		} else {
 			System.out.print("Os lados fornecidos não caracterizam um triângulo");
 		}
-
+		entrada.close();
 	}
 
 }

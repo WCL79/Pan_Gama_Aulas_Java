@@ -25,5 +25,7 @@ public class TresNumerosInteiroMaiorMenor {
 			}else {
 				System.out.println("O terceiro número é o maior" + num3);
 			}
+		entrada.close();
 		} 
+	
 	}
