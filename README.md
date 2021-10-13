@@ -13,8 +13,8 @@ PAN ACADEMY É UM PROGRAMA DE FORMAÇÃO À ESPECIALIZAÇÃO EM <i>CLOUD</i> COM
 <p align="center">
   <a href="#-cronograma">Cronograma e  Staff</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-exercicos">Exercícios em aula</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-exercicos-complementar">Exercícios complementarios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-exercicos-complementar-loiane">Exercícios complementarios de  Loiane Groner</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-exercicos-complementar">Exercícios complementar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-exercicos-complementar-loiane">Exercícios complementar de  Loiane Groner</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projetos">Projeto final</a>
 </p>
 
