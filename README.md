@@ -13,7 +13,7 @@ PAN ACADEMY É UM PROGRAMA DE FORMAÇÃO À ESPECIALIZAÇÃO EM <i>CLOUD</i> COM
 <p align="center">
   <a href="#-cronograma">Cronograma e  Staff</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-exercicos">Exercícios em aula</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-exercicos">Exercícios complementarios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-exercicos-complementar">Exercícios complementarios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projetos">Projeto final</a>
 </p>
 
@@ -50,7 +50,10 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 Comforme orientação da Mentora Jenifer, é necessário praticar diversos exercícios para aumentar a capicidade lógica crítica; ou seja, cada resolução à solução, com o passar do tempo, o mesmo exercício poderá refaze-lo de forma diferente e mais eficiente.
 
-- [Data 12/10/21: exercícios retirados do URI](https://github.com/WCL79/Pan_Gama_Aulas_Java/tree/master/src/exercicioscomplmentaresurionlinejudge)
+- [Data 12/10/21: exercícios retirados do URI: 1002 e 1003](https://github.com/WCL79/Pan_Gama_Aulas_Java/tree/master/src/exercicioscomplmentaresurionlinejudge)
+
+- [Data 13/10/21: exercícios retirados do URI: 1004 e 1005](https://github.com/WCL79/Pan_Gama_Aulas_Java/tree/master/src/exercicioscomplmentaresurionlinejudge)
+
 
 
 ## 🖥️🖱️ Visitantes
