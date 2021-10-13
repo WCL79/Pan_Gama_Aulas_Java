@@ -59,17 +59,31 @@ Comforme orientação da Mentora Jenifer, é necessário praticar diversos exerc
 - [Refazendo o curso de Java Loiane Groner](https://github.com/WCL79/Pan_Gama_Aulas_Java/tree/master/src/estudocomplementar)
 
 
-## 🖥️🖱️ Visitantes
+## 🖥️🖱️ Evolução de Commit e Visitantes
 
-<div id="network" class="network">
-    <div class="Box mb-3 position-relative overflow-hidden lh-condensed-ultra js-network-graph-container" data-network-graph-meta-url="/WCL79/Pan_Gama_Aulas_Java/network/meta" data-network-graph-chunk-url="/WCL79/Pan_Gama_Aulas_Java/network/chunk">
-      <canvas width="661" height="604" style="z-index: 0; width: 661px; height: 604px; cursor: move;">
-        <p>Sorry, your browser doesn’t support the &lt;canvas&gt; element.</p>
-        <p>Please upgrade to the latest <a href="https://www.microsoft.com/ie">Internet Explorer</a>, <a href="https://www.google.com/chrome">Chrome</a> or <a href="https://mozilla.org/firefox">Firefox</a>.</p>
-      </canvas>
-      <div class="position-absolute top-0 right-0 left-0 py-10 text-center js-network-graph-loading-area" hidden="">
-        <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="m-3 anim-rotate">
-</svg>
+<ol class="contrib-data list-style-none"><li class="contrib-person float-left col-6 my-2 pr-2">
+        <span class="d-block Box">
+          <h3 class="border-bottom p-2 lh-condensed">
+            <a data-hovercard-type="user" data-hovercard-url="/users/WCL79/hovercard" href="/WCL79" class="d-inline-block mr-2 float-left">
+              <img src="https://avatars.githubusercontent.com/u/72285106?s=60&amp;v=4" class="avatar avatar-user" alt="WCL79" width="38" height="38">
+            </a>
+            <span class="f5 text-normal color-text-tertiary float-right">#1</span>
+            <a data-hovercard-type="user" data-hovercard-url="/users/WCL79/hovercard" class="text-normal" href="/WCL79">WCL79</a>
+            <span class="f6 d-block color-text-tertiary">
+              <span class="cmeta">
+                <div>
+                  <a href="https://github.com/WCL79/Pan_Gama_Aulas_Java/commits?author=WCL79" class="Link--secondary text-normal">32 commits</a>
+                  &nbsp;&nbsp;
+                  <span class="color-text-success text-normal">4,374 ++</span>
+                  &nbsp;&nbsp;
+                  <span class="color-text-danger text-normal">3,662 --</span>
+                </div>
+              </span>
+            </span>
+          </h3>
+        <svg viewBox="0 0 355 170" class="capped-card-content" preserveAspectRatio="xMinYMin meet"><g transform="translate(20,10)"><g class="x axis" transform="translate(0, 110)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="currentColor" d="M0.5,6V0.5H315.5V6"></path><g class="tick" opacity="1" transform="translate(4.4375,0)"><line stroke="currentColor" y2="6"></line><text fill="#6a737d" y="9" dy="0.71em" style="display: block;">10/3/2021</text></g><g class="tick" opacity="1" transform="translate(35.9375,0)"><line stroke="currentColor" y2="6"></line><text fill="#6a737d" y="9" dy="0.71em" style="display: none;">10/4/2021</text></g><g class="tick" opacity="1" transform="translate(67.4375,0)"><line stroke="currentColor" y2="6"></line><text fill="#6a737d" y="9" dy="0.71em" style="display: none;">10/5/2021</text></g><g class="tick" opacity="1" transform="translate(98.9375,0)"><line stroke="currentColor" y2="6"></line><text fill="#6a737d" y="9" dy="0.71em" style="display: block;">10/6/2021</text></g><g class="tick" opacity="1" transform="translate(130.4375,0)"><line stroke="currentColor" y2="6"></line><text fill="#6a737d" y="9" dy="0.71em" style="display: none;">10/7/2021</text></g><g class="tick" opacity="1" transform="translate(161.9375,0)"><line stroke="currentColor" y2="6"></line><text fill="#6a737d" y="9" dy="0.71em" style="display: none;">10/8/2021</text></g><g class="tick" opacity="1" transform="translate(193.4375,0)"><line stroke="currentColor" y2="6"></line><text fill="#6a737d" y="9" dy="0.71em" style="display: block;">10/9/2021</text></g><g class="tick" opacity="1" transform="translate(224.9375,0)"><line stroke="currentColor" y2="6"></line><text fill="#6a737d" y="9" dy="0.71em" style="display: none;">10/10/2021</text></g><g class="tick" opacity="1" transform="translate(256.4375,0)"><line stroke="currentColor" y2="6"></line><text fill="#6a737d" y="9" dy="0.71em" style="display: none;">10/11/2021</text></g><g class="tick" opacity="1" transform="translate(287.9375,0)"><line stroke="currentColor" y2="6"></line><text fill="#6a737d" y="9" dy="0.71em" style="display: block;">10/12/2021</text></g></g><g class="y axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end"><path class="domain" stroke="currentColor" d="M315,110.5H0.5V0.5H315"></path><g class="tick" opacity="1" transform="translate(0,110.5)"><line stroke="currentColor" x2="315"></line><text fill="#6a737d" x="-10" dy="0.32em" dx="157.5" class="midlabel" style="display: none;">0</text></g><g class="tick" opacity="1" transform="translate(0,41.75)"><line stroke="currentColor" x2="315"></line><text fill="#6a737d" x="-10" dy="0.32em" dx="157.5" class="midlabel" style="display: block;">20</text></g></g><path d="M0,110L220.5,0L220.5,110L0,110Z"></path></g></svg></span>
+      </li></ol>
+
 
 <p align="center">Você é o n° abaixo como visitante, OBRIGADO!</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Pan_Gama_Aulas_Java/count.svg" /></p>
