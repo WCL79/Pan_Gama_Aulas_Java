@@ -14,6 +14,7 @@ PAN ACADEMY É UM PROGRAMA DE FORMAÇÃO À ESPECIALIZAÇÃO EM <i>CLOUD</i> COM
   <a href="#-cronograma">Cronograma e  Staff</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-exercicos">Exercícios em aula</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-exercicos-complementar">Exercícios complementarios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-exercicos-complementar-loiane">Exercícios complementarios de  Loiane Groner</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projetos">Projeto final</a>
 </p>
 
@@ -54,8 +55,8 @@ Comforme orientação da Mentora Jenifer, é necessário praticar diversos exerc
 
 - [Data 13/10/21: exercícios retirados do URI: 1004 e 1005](https://github.com/WCL79/Pan_Gama_Aulas_Java/tree/master/src/exercicioscomplmentaresurionlinejudge)
 
-
-
+## ⚙️ Exercícios complementar de  Loiane Groner
+- [Refazendo o curso de Java Loiane Groner](https://github.com/WCL79/Pan_Gama_Aulas_Java/tree/master/src/estudocomplementar)
 ## 🖥️🖱️ Visitantes
 
 <p align="center">Você é o n° abaixo como visitante, OBRIGADO!</p>
