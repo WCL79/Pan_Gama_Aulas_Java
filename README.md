@@ -57,7 +57,19 @@ Comforme orientação da Mentora Jenifer, é necessário praticar diversos exerc
 
 ## ⚙️ Exercícios complementar de  Loiane Groner
 - [Refazendo o curso de Java Loiane Groner](https://github.com/WCL79/Pan_Gama_Aulas_Java/tree/master/src/estudocomplementar)
+
+
 ## 🖥️🖱️ Visitantes
+
+<div id="network" class="network">
+    <div class="Box mb-3 position-relative overflow-hidden lh-condensed-ultra js-network-graph-container" data-network-graph-meta-url="/WCL79/Pan_Gama_Aulas_Java/network/meta" data-network-graph-chunk-url="/WCL79/Pan_Gama_Aulas_Java/network/chunk">
+      <canvas width="661" height="604" style="z-index: 0; width: 661px; height: 604px; cursor: move;">
+        <p>Sorry, your browser doesn’t support the &lt;canvas&gt; element.</p>
+        <p>Please upgrade to the latest <a href="https://www.microsoft.com/ie">Internet Explorer</a>, <a href="https://www.google.com/chrome">Chrome</a> or <a href="https://mozilla.org/firefox">Firefox</a>.</p>
+      </canvas>
+      <div class="position-absolute top-0 right-0 left-0 py-10 text-center js-network-graph-loading-area" hidden="">
+        <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="m-3 anim-rotate">
+</svg>
 
 <p align="center">Você é o n° abaixo como visitante, OBRIGADO!</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Pan_Gama_Aulas_Java/count.svg" /></p>
