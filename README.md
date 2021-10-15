@@ -47,6 +47,9 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 11/10/21: exercício sobre condicional Escreva um programa que leia o valor de 3 ângulos de um triângulo e escreva se o triângulo é Acutângulo, Retângulo ou Obtusângulo, Escreva um programa que leia as medidas dos lados de um triângulo e escreva se ele é Equilátero, Isósceles](https://github.com/WCL79/Pan_Gama_Aulas_Java/tree/master/src/aula111021)
 
+- [Data 14/10/21: Estruturas de Controle](https://github.com/WCL79/Pan_Gama_Aulas_Java/tree/master/src/aula141021)
+
+
 ## ⚙️ Exercícios complementares
 
 Comforme orientação da Mentora Jenifer, é necessário praticar diversos exercícios para aumentar a capicidade lógica crítica; ou seja, cada resolução à solução, com o passar do tempo, o mesmo exercício poderá refaze-lo de forma diferente e mais eficiente.
